@@ -1,0 +1,26 @@
+{
+    "name": "brandfil/php-sdk",
+    "description": "Brandfil SDK for PHP",
+    "type": "library",
+    "require": {
+        "php": "^7.1|^8.0",
+        "mashape/unirest-php": "^3.0",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.4"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Brandfil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Peter",
+            "email": "peter@brandfil.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

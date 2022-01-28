@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "identifier": "444345",
+      "title": "Smartfon APPLE iPhone 13 mini 256GB 5G 5.4\" Czerwony MLK83PM/A",
+      "link": "https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-13-128gb-5g-6-1-czarny-mlpf3pm-a",
+      "availability": "in_stock",
+      "specification": {
+        "gtin": "MLPF3PM/A",
+        "brand": "Apple"
+      },
+      "price": 409900
+    },
+    {
+      "identifier": "444340",
+      "title": "Smartfon APPLE iPhone 13 128GB 5G 6.1\" Czarny MLPF3PM/A",
+      "link": "https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-13-mini-256gb-5g-5-4-czerwony-mlk83pm-a",
+      "availability": "in_stock",
+      "specification": {
+        "gtin": "MLK83PM/A",
+        "brand": "Apple"
+      },
+      "price": 399900
+    }
+  ]
+}
