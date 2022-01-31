@@ -9,7 +9,8 @@
         "gtin": "MLPF3PM/A",
         "brand": "Apple"
       },
-      "price": 409900
+      "price": 409900,
+      "taxonomy": "Elektronika > Telefony > Apple"
     },
     {
       "identifier": "444340",
@@ -20,7 +21,8 @@
         "gtin": "MLK83PM/A",
         "brand": "Apple"
       },
-      "price": 399900
+      "price": 399900,
+      "taxonomy": "Elektronika > Telefony > Apple"
     }
   ]
 }
